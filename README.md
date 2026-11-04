@@ -2,7 +2,7 @@
 
 Pieza de arte generativo e interactivo desarrollada en **Processing (Java)**. El proyecto realiza un procesado cromático en tiempo real sobre una imagen de tractografía cerebral (`axial_brain.jpeg`), aislando las fibras nerviosas y superponiendo un sistema de partículas reactivas, un pulso de energía y una interfaz HUD que conmuta la transición de año de **2026 a 2027**.
 
-![Marie Curie Animation](frames/marie_curie_ascension.gif)
+![Marie Curie Animation](image/marie_curie_ascension.gif)
 
 ---
 
